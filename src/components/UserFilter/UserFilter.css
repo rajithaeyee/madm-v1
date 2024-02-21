@@ -1,0 +1,29 @@
+.filter-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.filter {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.search-input {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.sort-select {
+  width: 150px; 
+}
+
+.filter.clear-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}

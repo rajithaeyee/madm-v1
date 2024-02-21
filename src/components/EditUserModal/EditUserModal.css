@@ -1,0 +1,41 @@
+input[type="text"],
+input[type="tel"],
+input[type="file"] {
+    width: calc(100% - 10px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.button-group {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+  
+  .submit-button,
+  .clear-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .clear-button {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .submit-button:hover,
+  .clear-button:hover {
+    opacity: 0.8;
+  }
+  
+  .clear-button {
+    margin-left: 10px;
+  }

@@ -1,0 +1,9 @@
+.no-users-message {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .no-users-message p {
+    font-size: 18px;
+    color: #888;
+  }
