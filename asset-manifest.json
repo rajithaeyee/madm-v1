@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madm-v1/static/css/main.bafe9907.css",
+    "main.js": "/madm-v1/static/js/main.ad821237.js",
+    "static/js/453.ff101f6b.chunk.js": "/madm-v1/static/js/453.ff101f6b.chunk.js",
+    "index.html": "/madm-v1/index.html",
+    "main.bafe9907.css.map": "/madm-v1/static/css/main.bafe9907.css.map",
+    "main.ad821237.js.map": "/madm-v1/static/js/main.ad821237.js.map",
+    "453.ff101f6b.chunk.js.map": "/madm-v1/static/js/453.ff101f6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafe9907.css",
+    "static/js/main.ad821237.js"
+  ]
+}
